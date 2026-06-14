@@ -1,0 +1,17 @@
+Question: 
+Can demographic characteristics predict where a population sungroup has a high age-adjusted amputation rate
+
+To Do:
+Convert numerical values into classification by determining "high risk" thresholds
+
+Check total dataset size after filtering
+
+Look for unique combinations of features
+
+Check distribution of the target metric
+
+
+Target metric: age-adjusted rate
+
+High Risk Rule:
+
