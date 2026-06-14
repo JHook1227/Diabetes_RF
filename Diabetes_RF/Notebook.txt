@@ -2,6 +2,8 @@ Question:
 Can demographic characteristics predict where a population sungroup has a high age-adjusted amputation rate
 
 To Do:
+Create Virtual Environment
+
 Convert numerical values into classification by determining "high risk" thresholds
 
 Check total dataset size after filtering
